@@ -19,7 +19,7 @@ public class Ejemplo01 {
         for (int i = 1; i <= 10; i++) {
             System.out.printf("%d\n", i);
         }
-        
+       
         for (int i = 1; i < 11; i++) {
             System.out.printf("%d\n", i);
         }
